@@ -1,0 +1,32 @@
+404 Updates
+
+08/24 - 09/07
+-Generated 1000 images of side profile with Unity
+-Added images to the training data
+
+09/07 - 09/21
+-Researched TFLite 
+-Researched Kotlin
+
+09/21 - 10/05
+-Converted model to TFLite format using google collab 
+-Researched TFLite implementation 
+
+10/05 - 10/19
+-Tested model on TFLite photo example app 
+-Downloaded and read TFLite live video app documentation https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android
+-Implemented Model onto TFLite live video capture example app 
+
+10/19 - 11/02
+-Integrated example app with old app build in Kotlin
+-Integrated size detection algorithm
+-Edited example app code, removed features that were unncessary for this project
+
+11/02 - 11/16
+-Generated additional foot and ID data
+-Rebuilt TFLite model locally ~7000 photos used
+-Integrated with newest app build in Kotlin
+
+11/16 - 11/30
+-Validated size detection 
+-Validated frontend and superimposition integration
